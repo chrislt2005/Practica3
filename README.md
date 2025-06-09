@@ -38,15 +38,20 @@ practica3/
 │
 └── README.md
 
+### Características implementadas
+- Imágenes
+- Botones
+- Páginas
+- Estilos
+- Párrafos
 
 ### Orden de las Paginas
-1 Pagina de Inicio
-2 Pagina de Nosotros
-3 Pagina de Servicio
--Pagina de Plan Básico
--Pagina de Plan Estándar
--Pagina de Plan Premium
-![Captura PPremium](img/Paginappremium.png)
+- 1 Pagina de Inicio
+- 2 Pagina de Nosotros
+- 3 Pagina de Servicio
+- Pagina de Plan Básico
+- Pagina de Plan Estándar
+- Pagina de Plan Premium
 
 ## Instrucciones para clonar y visualizar el proyecto 🛠️
 
